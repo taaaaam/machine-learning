@@ -1,2 +1,2 @@
 # machine-learning
-This is a simply CNN model for the classification of the MNIST dataset. 
+This is a collection of deep learning models for various datasets. This will be updated regularly. 
